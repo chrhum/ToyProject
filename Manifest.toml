@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.5"
+manifest_format = "2.0"
+project_hash = "351dcc3573879c65239c9b1948137471a66948e4"
+
+[[deps.ToyProject]]
+path = "."
+uuid = "f3fb54a7-ccbe-499a-b107-e14070cf16d6"
+version = "1.0.0-DEV"

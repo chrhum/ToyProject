@@ -1,0 +1,13 @@
+name = "ToyProject"
+uuid = "f3fb54a7-ccbe-499a-b107-e14070cf16d6"
+authors = ["ch"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.12"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
