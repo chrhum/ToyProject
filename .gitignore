@@ -1,1 +1,16 @@
+# Julia build artifacts
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/
+docs/build/
+*.so
+*.dll
+*.dylib
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
 
